@@ -1,16 +1,21 @@
 # TalenHolic
 
+<a><img alt="Java SE 8" src="https://img.shields.io/badge/Java%20SE-8-orange"></a>
 <a><img alt="Code Quality" src="https://img.shields.io/badge/code%20quality-A-brightgreen"></a>
+<a><img alt="Website Up" src="https://img.shields.io/badge/website-up-brightgreen"></a>
 
 It is a  a website which provides you the perfect platform to showcase your talents.
-The ides is to create a platform for intra college societies where students as well as socieites can:
+The ides is to create a platform for intra-college or inter-college societies where students as well as socieites can:
 - Create their profile
 - Upload their Photos, Videos, Texts etc.
-- Like and comment it
+- Like or comment them
+- Societies can create events.
+- Approach each other for events.
 
 ### SERVER
 
-The Server-side programming technology used is `JSP`
+- The Server-side programming technology used is `JSP`.
+- Cloud Datastore is used as database.
 
 ### FRONT-END
 
@@ -26,7 +31,9 @@ The Server-side programming technology used is `JSP`
 
 ### Directory Structure of the project
 
-## JSP Lifecycle
+<img src="src/main/webapp/images/dir.png">
+
+### JSP Lifecycle
 - Translation of JSP to Java (servlet).
 - Compilation of java to .class.
 - Loading of servlet class.
