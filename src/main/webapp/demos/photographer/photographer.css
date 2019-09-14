@@ -1,0 +1,27 @@
+/* ----------------------------------------------------------------
+	Canvas: Photographer
+	Version: 1.0
+-----------------------------------------------------------------*/
+
+:root { --darkcolor: #050505; }
+
+
+
+
+
+@media (min-width: 992px) {
+	#primary-menu ul li > a {
+		padding-top: 19px;
+		padding-bottom: 19px;
+		font-weight: 300;
+		text-transform: capitalize;
+	}
+
+	#header.sticky-header:not(.static-sticky) #primary-menu > ul > li > a {
+		padding-top: 19px;
+		padding-bottom: 19px;
+	}
+
+
+	.dark #header.transparent-header #primary-menu ul:last-child { border-left: 1px solid rgba(255, 255, 255, .15); }
+}
