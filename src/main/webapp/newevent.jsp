@@ -291,8 +291,7 @@ SocietyDetailsEntity soc=(SocietyDetailsEntity)session.getAttribute("societydeta
 						</div>
 
 						<div class="clear"></div>
-                         <i class="icon-envelope2"></i>talentholicth@gmail.com <span class="middot">&middot;</span> <i class="icon-headphones"></i> +91-8130508403 
-						<span class="middot">&middot;</span> <i class="icon-headphones"></i> +91-7982106539<div><i class="icon-headphones"></i> +91-9971227534 </div>
+                         <i class="icon-envelope2"></i>talentholicth@gmail.com
 						</div>
 				</div>
 			</div><!-- #copyrights end -->
