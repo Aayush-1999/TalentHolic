@@ -8,7 +8,7 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 It is a  a website which provides you the perfect platform to showcase your talents.
-The ides is to create a platform for intra-college or inter-college societies where students as well as socieites can:
+The idea is to create a platform for intra-college and inter-college societies where students as well as socieites can:
 - Create their profile
 - Upload their Photos, Videos, Texts etc.
 - Like or comment them
@@ -18,7 +18,7 @@ The ides is to create a platform for intra-college or inter-college societies wh
 ### SERVER
 
 - The Server-side programming technology used is `JSP`.
-- Cloud Datastore is used as database.
+- Google Cloud Datastore is used as database.
 
 ### FRONT-END
 
