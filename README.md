@@ -1,10 +1,11 @@
 # TalenHolic
 
+[![forthebadge made-with-java](https://forthebadge.com/images/badges/made-with-java.svg)](https://www.java.com/en/)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/70b018d2b61449bdbce474bf0833c5e5)](https://app.codacy.com/manual/aayushaggarwal2007/TalentHolic?utm_source=github.com&utm_medium=referral&utm_content=Aayush-1999/TalentHolic&utm_campaign=Badge_Grade_Dashboard)
-
-<a><img alt="Java SE 8" src="https://img.shields.io/badge/Java%20SE-8-orange"></a>
-<a><img alt="Code Quality" src="https://img.shields.io/badge/code%20quality-A-brightgreen"></a>
-<a><img alt="Website Up" src="https://img.shields.io/badge/website-up-brightgreen"></a>
+![Java](https://img.shields.io/badge/Java%20SE-8-orange)
+![licence](https://img.shields.io/github/license/Aayush-1999/TalentHolic)
+![Website](https://img.shields.io/website?up_color=light%20green&up_message=up&url=https%3A%2F%2Fgithub.com%2FAayush-1999%2FTalentHolic)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 It is a  a website which provides you the perfect platform to showcase your talents.
 The ides is to create a platform for intra-college or inter-college societies where students as well as socieites can:
