@@ -1,5 +1,7 @@
 # TalenHolic
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/70b018d2b61449bdbce474bf0833c5e5)](https://app.codacy.com/manual/aayushaggarwal2007/TalentHolic?utm_source=github.com&utm_medium=referral&utm_content=Aayush-1999/TalentHolic&utm_campaign=Badge_Grade_Dashboard)
+
 <a><img alt="Java SE 8" src="https://img.shields.io/badge/Java%20SE-8-orange"></a>
 <a><img alt="Code Quality" src="https://img.shields.io/badge/code%20quality-A-brightgreen"></a>
 <a><img alt="Website Up" src="https://img.shields.io/badge/website-up-brightgreen"></a>
