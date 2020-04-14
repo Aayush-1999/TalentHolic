@@ -1,6 +1,5 @@
 # TalenHolic
 
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/70b018d2b61449bdbce474bf0833c5e5)](https://app.codacy.com/manual/aayushaggarwal2007/TalentHolic?utm_source=github.com&utm_medium=referral&utm_content=Aayush-1999/TalentHolic&utm_campaign=Badge_Grade_Dashboard)
 [![forthebadge made-with-java](https://forthebadge.com/images/badges/made-with-java.svg)](https://www.java.com/en/)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/70b018d2b61449bdbce474bf0833c5e5)](https://app.codacy.com/manual/aayushaggarwal2007/TalentHolic?utm_source=github.com&utm_medium=referral&utm_content=Aayush-1999/TalentHolic&utm_campaign=Badge_Grade_Dashboard)
 ![Java](https://img.shields.io/badge/Java%20SE-8-orange)
